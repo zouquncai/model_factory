@@ -1,0 +1,8 @@
+﻿Coverage,Earned_Premium,Incurred_Loss,Claim_Count,Earned_Exposure,Offset,Offset_log
+BI,BI_EP,biinc,biclc,biexp,biprem_theo,biprem_theo_offset
+PD,PD_EP,pdinc,pdclc,pdexp,pdprem_theo,pdprem_theo_offset
+MED,MED_EP,mpinc,mpclc,mpexp,mpprem_theo,mpprem_theo_offset
+PIP,PIP_EP,pipinc,pipclc,pipexp,pipprem_theo,pipprem_theo_offset
+COLL,COLL_EP,clinc,clclc,clexp,clprem_theo,clprem_theo_offset
+COMP,COMP_EP,cpinc,cpclc,cpexp,cpprem_theo,cpprem_theo_offset
+TOTAL,tot_ep,totinc,tot_clc,tot_exp,N/A,N/A
